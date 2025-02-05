@@ -59,6 +59,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammad-nazim-uddin" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-nazim-uddin)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-nazim-uddin)](https://git.io/streak-stats)
 ![mohammad-nazim-uddin's Stats](https://github-readme-stats.vercel.app/api?username=mohammad-nazim-uddin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![mohammad-nazim-uddin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-nazim-uddin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
