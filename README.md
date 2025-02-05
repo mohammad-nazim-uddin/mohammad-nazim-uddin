@@ -2,8 +2,8 @@
   <img height="200" src="https://i.ibb.co/qFRSQnsT/Nazim-uddin.png"  />
 </div>
 
-<h1>Hi 👋, I'm </h1>
-<p>A passionate frontend developer from Bangladesh</p>
+<h1>Hi 👋, I'm Nazim Uddin </h1>
+<p>A passionate frontend developer from Bangladesh. Recently i have completed my graduation on Computer Science. I have kneen interest in developing technologies. I have work on a university project where our team develop a digital attendance system of our classroom. Currenlty i have exploring next js. it is quite fun to learn new tools and technologies</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <h1>Front End</h1>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
