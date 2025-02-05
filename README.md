@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co/qFRSQnsT/Nazim-uddin.png"  />
+  <img height="200" src="https://i.ibb.co/qFRSQnsT/Nazim-uddin.png"  />
 </div>
 
 ###
