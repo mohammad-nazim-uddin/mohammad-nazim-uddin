@@ -1,4 +1,4 @@
-![Banner]([https://i.ibb.co/qFRSQnsT/Nazim-uddin.png])
+![Banner](https://i.ibb.co/qFRSQns/Nazim-uddin.png)
 
 # 🚀 John Doe | Full Stack Developer
 
