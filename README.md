@@ -59,6 +59,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammad-nazim-uddin)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammad-nazim-uddin" alt="GitHub Streak" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-nazim-uddin)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-nazim-uddin)](https://git.io/streak-stats)
