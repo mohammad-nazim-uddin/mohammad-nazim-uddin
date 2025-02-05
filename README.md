@@ -59,7 +59,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
+![mohammad-nazim-uddin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-nazim-uddin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <img src="https://streak-stats.demolab.com?user=mohammad-nazim-uddin&theme=default&hide_border=true" alt="mohammad-nazim-uddin's GitHub Stats" />
 
 ###
